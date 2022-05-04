@@ -1,0 +1,69 @@
+Seed,Team,Conference,Berth type,Overall rank,Placement
+1,Syracuse,Big East,At-large,2,8
+2,Ohio State,Big Ten,At-large,7,4
+3,Florida State,ACC,Automatic,11,32
+4,Wisconsin,Big Ten,At-large,14,16
+5,Vanderbilt,SEC,Automatic,18,32
+6,Cincinnati,Big East,At-large,22,16
+7,Gonzaga,West Coast,At-large,27,32
+8,Kansas State,Big 12,At-large,32,32
+9,Southern Miss,C-USA,At-large,35,64
+10,West Virginia,Big East,At-large,38,64
+11,Texas,Big 12,At-large,43,64
+12,Harvard,Ivy League,Automatic,46,64
+13,Montana,Big Sky,Automatic,55,64
+14,St. Bonaventure,Atlantic 10,Automatic,58,64
+15,Loyola,MAAC,Automatic,59,64
+16,UNC Asheville,Big South,Automatic,64,64
+1,North Carolina,ACC,At-large,3,8
+2,Kansas,Big 12,At-large,5,2
+3,Georgetown,Big East,At-large,12,32
+4,Michigan,Big Ten,At-large,13,64
+5,Temple,Atlantic 10,At-large,17,64
+6,San Diego State,Mountain West,At-large,24,64
+7,Saint Mary's,West Coast,Automatic,26,64
+8,Creighton,Missouri Valley,Automatic,29,32
+9,Alabama,SEC,At-large,33,64
+10,Purdue,Big Ten,At-large,37,32
+11,NC State,ACC,At-large,42,16
+12,California,Pac-12,At-large,45,68
+12,South Florida,Big East,At-large,47,32
+13,Ohio,MAC,Automatic,52,16
+14,Belmont,Atlantic Sun,Automatic,57,64
+15,Detroit Mercy,Horizon,Automatic,61,64
+16,Lamar,Southland,Automatic,65,68
+16,Vermont,America East,Automatic,66,64
+1,Kentucky,SEC,At-large,1,1
+2,Duke,ACC,At-large,6,64
+3,Baylor,Big 12,At-large,9,8
+4,Indiana,Big Ten,At-large,15,16
+5,Wichita State,Missouri Valley,At-large,19,64
+6,UNLV,Mountain West,At-large,21,64
+7,Notre Dame,Big East,At-large,25,64
+8,Iowa State,Big 12,At-large,30,32
+9,Connecticut,Big East,At-large,34,64
+10,Xavier,Atlantic 10,At-large,40,16
+11,Colorado,Pac-12,Automatic,44,32
+12,VCU,Colonial,Automatic,49,32
+13,New Mexico State,WAC,Automatic,54,64
+14,South Dakota State,Summit,Automatic,56,64
+15,Lehigh,Patriot,Automatic,60,32
+16,Mississippi Valley State,SWAC,Automatic,67,68
+16,Western Kentucky,Sun Belt,Automatic,68,64
+1,Michigan State,Big Ten,Automatic,4,16
+2,Missouri,Big 12,Automatic,8,64
+3,Marquette,Big East,At-large,10,16
+4,Louisville,Big East,Automatic,16,4
+5,New Mexico,Mountain West,Automatic,20,32
+6,Murray State,Ohio Valley,Automatic,23,32
+7,Florida,SEC,At-large,28,8
+8,Memphis,C-USA,Automatic,31,64
+9,Saint Louis,Atlantic 10,At-large,36,32
+10,Virginia,ACC,At-large,39,64
+11,Colorado State,Mountain West,At-large,41,64
+12,Long Beach State,Big West,Automatic,51,64
+13,Davidson,Southern,Automatic,53,64
+14,BYU,West Coast,At-large,48,64
+14,Iona,MAAC,At-large,50,68
+15,Norfolk State,MEAC,Automatic,62,32
+16,LIU-Brooklyn,Northeast,Automatic,63,64

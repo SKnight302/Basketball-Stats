@@ -1,0 +1,69 @@
+Seed,Team,Conference,Berth type,Overall rank,Placement
+1,Ohio State,Big 10,Automatic,,16
+2,North Carolina,ACC,At-large,,8
+3,Syracuse,Big East,At-large,,32
+4,Kentucky,SEC,Automatic,,4
+5,West Virginia,Big East,At-large,,32
+6,Xavier,Atlantic 10,At-large,,16
+7,Washington,Pac-10,Automatic,,32
+8,George Mason,CAA,At-large,,32
+9,Villanova,Big East,At-large,,64
+10,Georgia,SEC,At-large,,64
+11,Marquette,Big East,At-large,,16
+12,UAB,C-USA,At-large,,68
+12,Clemson,ACC,At-large,,64
+13,Princeton,Ivy League,Automatic,,64
+14,Indiana State,Missouri Valley,Automatic,,64
+15,Long Island,Northeast,Automatic,,64
+16*,UTSA,Southland,Automatic,,64
+,Alabama State,SWAC,Automatic,,68
+1,Kansas,Big 12,Automatic,,8
+2,Notre Dame,Big East,At-large,,32
+3,Purdue,Big 10,At-large,,32
+4,Louisville,Big East,At-large,,64
+5,Vanderbilt,SEC,At-large,,64
+6,Georgetown,Big East,At-large,,64
+7,Texas A&M,Big 12,At-large,,64
+8,UNLV,Mountain West,At-large,,64
+9,Illinois,Big 10,At-large,,32
+10,Florida State,ACC,At-large,,16
+11,USC,Pac-10,At-large,,68
+11,VCU,CAA,At-large,,4
+12,Richmond,Atlantic 10,Automatic,,16
+13,Morehead State,Ohio Valley,Automatic,,32
+14,Saint Peter's,MAAC,Automatic,,64
+15,Akron,MAC,Automatic,,64
+16,Boston University,America East,Automatic,,64
+1,Pittsburgh,Big East,At-large,,32
+2,Florida,SEC,At-large,,8
+3,BYU,Mountain West,At-large,,16
+4,Wisconsin,Big Ten,At-large,,16
+5,Kansas State,Big 12,At-large,,32
+6,St. John's,Big East,At-large,,64
+7,UCLA,Pac-10,At-large,,32
+8,Butler,Horizon,Automatic,,2
+9,Old Dominion,CAA,Automatic,,64
+10,Michigan State,Big 10,At-large,,64
+11,Gonzaga,West Coast,Automatic,,32
+12,Utah State,WAC,Automatic,,64
+13,Belmont,Atlantic Sun,Automatic,,64
+14,Wofford,Southern,Automatic,,64
+15,UC Santa Barbara,Big West,Automatic,,64
+16,UNC Asheville,Big South,Automatic,,64
+16,Arkansas–Little Rock,Sun Belt,Automatic,,68
+1,Duke,ACC,Automatic,,16
+2,San Diego State,Mountain West,Automatic,,16
+3,Connecticut,Big East,Automatic,,1
+4,Texas,Big 12,At-large,,32
+5,Arizona,Pac-10,At-large,,8
+6,Cincinnati,Big East,At-large,,32
+7,Temple,Atlantic 10,At-large,,32
+8,Michigan,Big 10,At-large,,32
+9,Tennessee,SEC,At-large,,64
+10,Penn State,Big 10,At-large,,64
+11,Missouri,Big 12,At-large,,64
+12,Memphis,C-USA,Automatic,,64
+13,Oakland,Summit,Automatic,,64
+14,Bucknell,Patriot,Automatic,,64
+15,Northern Colorado,Big Sky,Automatic,,64
+16,Hampton,MEAC,Automatic,,64

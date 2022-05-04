@@ -1,0 +1,69 @@
+Seed,Team,Conference,Berth type,Overall rank,Placement
+1,Florida,SEC,Automatic,1,4
+2,Kansas,Big 12,At僕arge,7,32
+3,Syracuse,ACC,At僕arge,10,32
+4,UCLA,Pac-12,Automatic,15,16
+5,VCU,Atlantic 10,At僕arge,19,64
+6,Ohio State,Big Ten,At僕arge,22,64
+7,New Mexico,Mountain West,Automatic,28,64
+8,Colorado,Pac-12,At僕arge,32,64
+9,Pittsburgh,ACC,At僕arge,36,32
+10,Stanford,Pac-12,At僕arge,37,16
+11,Dayton,Atlantic 10,At僕arge,41,8
+12,Stephen F. Austin,Southland,Automatic,50,32
+13,Tulsa,C-USA,Automatic,52,64
+14,Western Michigan,MAC,Automatic,55,64
+15,Eastern Kentucky,Ohio Valley,Automatic,59,64
+16,Albany,America East,Automatic,66,64
+16,Mount St. Mary's,Northeast,Automatic,65,68
+1,Virginia,ACC,Automatic,4,16
+2,Villanova,Big East,At-Large,5,32
+3,Iowa State,Big 12,Automatic,12,16
+4,Michigan State,Big Ten,Automatic,14,8
+5,Cincinnati,American,At僕arge,17,64
+6,North Carolina,ACC,At僕arge,21,32
+7,UConn,American,At僕arge,26,1
+8,Memphis,American,At僕arge,31,32
+9,George Washington,Atlantic 10,At僕arge,34,64
+10,Saint Joseph's,Atlantic 10,Automatic,38,64
+11,Providence,Big East,Automatic,43,64
+12,Harvard,Ivy,Automatic,49,32
+13,Delaware,Colonial,Automatic,54,64
+14,North Carolina Central,MEAC,Automatic,58,64
+15,Milwaukee,Horizon,Automatic,60,64
+16,Coastal Carolina,Big South,Automatic,63,64
+1,Arizona,Pac-12,At僕arge,2,8
+2,Wisconsin,Big Ten,At僕arge,8,4
+3,Creighton,Big East,At僕arge,11,32
+4,San Diego State,Mountain West,At僕arge,16,16
+5,Oklahoma,Big 12,At僕arge,20,64
+6,Baylor,Big 12,At僕arge,24,16
+7,Oregon,Pac-12,At僕arge,27,32
+8,Gonzaga,West Coast,Automatic,30,32
+9,Oklahoma State,Big 12,At僕arge,35,64
+10,BYU,West Coast,At僕arge,39,64
+11,Nebraska,Big Ten,At僕arge,42,64
+12,North Dakota State,Summit,Automatic,48,32
+13,New Mexico State,WAC,Automatic,53,64
+14,Louisiana-Lafayette,Sun Belt,Automatic,57,64
+15,American,Patriot,Automatic,62,64
+16,Weber State,Big Sky,Automatic,64,64
+1,Wichita State,MVC,Automatic,3,32
+2,Michigan,Big Ten,At-large,6,8
+3,Duke,ACC,At僕arge,9,64
+4,Louisville,American,Automatic,13,16
+5,Saint Louis,Atlantic 10,At僕arge,18,32
+6,Massachusetts,Atlantic 10,At僕arge,23,64
+7,Texas,Big 12,At僕arge,25,32
+8,Kentucky,SEC,At僕arge,29,2
+9,Kansas State,Big 12,At僕arge,33,64
+10,Arizona State,Pac-12,At僕arge,40,64
+11,Iowa,Big Ten,At僕arge,45,68
+11,Tennessee,SEC,At僕arge,44,16
+12,NC State,ACC,At僕arge,47,64
+12,Xavier,Big East,At僕arge,46,68
+13,Manhattan,MAAC,Automatic,51,64
+14,Mercer,Atlantic Sun,Automatic,56,32
+15,Wofford,Southern,Automatic,61,64
+16,Cal Poly,Big West,Automatic,68,64
+16,Texas Southern,SWAC,Automatic,67,68

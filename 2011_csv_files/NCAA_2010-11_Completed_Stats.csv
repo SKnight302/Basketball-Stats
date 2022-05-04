@@ -1,0 +1,335 @@
+Year,Team,Power 5 School,Placement,Seed,Berth type,Overall rank,Win Pct,SCR MAR,REB MAR,FG%,FT%,3FG%,OPP FG%,OPP 3FG%,AST/TO Ratio
+2011,Kansas (Big 12),True,8.0,1,Automatic,DNP,92.1,16.5,8.0,50.8,67.9,38.2,39.4,29.8,1.33
+2011,San Diego St. (Mountain West),False,16.0,2,Automatic,DNP,91.9,12.6,6.8,46.3,69.7,34.9,39.6,31.9,1.24
+2011,Ohio St. (Big Ten),True,16.0,1,Automatic,DNP,91.9,17.5,4.9,49.4,70.1,42.3,42.4,34.0,1.57
+2011,Utah St. (WAC),False,64.0,12,Automatic,DNP,88.2,13.4,7.6,47.0,73.7,36.7,38.3,30.2,1.24
+2011,Duke (ACC),True,16.0,1,Automatic,DNP,86.5,16.2,2.7,47.1,75.3,37.4,40.5,32.4,1.18
+2011,BYU (Mountain West),False,16.0,3,At-large,DNP,86.5,13.5,2.8,44.9,76.5,36.1,41.5,32.7,1.33
+2011,Belmont (ASUN),False,64.0,13,Automatic,DNP,85.7,17.5,3.5,46.2,73.6,37.8,40.9,33.6,1.18
+2011,Pittsburgh (AAC),False,32.0,1,At-large,DNP,82.4,13.0,10.8,47.5,67.1,39.5,39.7,32.6,1.5
+2011,Coastal Carolina (Big South),False,DNP,DNP,DNP,DNP,82.4,12.3,7.1,48.6,69.2,DNP,39.6,34.3,1.18
+2011,LIU (NEC),False,64.0,15,Automatic,DNP,81.8,8.0,4.5,46.2,64.6,36.1,43.5,29.7,1.0
+2011,George Mason (CAA),False,32.0,8,At-large,DNP,79.4,10.3,2.1,47.1,68.9,39.5,41.2,32.6,1.28
+2011,Old Dominion (CAA),False,64.0,9,Automatic,DNP,79.4,7.3,11.7,43.9,66.8,DNP,40.4,36.6,1.14
+2011,Notre Dame (AAC),False,32.0,2,At-large,DNP,79.4,9.7,4.4,46.0,72.4,38.6,40.8,35.3,1.55
+2011,Arizona (Pac-12),True,8.0,5,At-large,DNP,78.9,8.6,4.0,46.9,74.6,39.7,44.4,29.3,1.11
+2011,North Carolina (ACC),True,8.0,2,At-large,DNP,78.4,8.7,6.4,45.0,67.2,32.8,40.5,33.1,1.16
+2011,Richmond (Atlantic 10),False,16.0,12,Automatic,DNP,78.4,8.4,-2.1,45.9,68.7,39.1,40.5,30.6,1.43
+2011,Florida (SEC),True,8.0,2,At-large,DNP,78.4,8.7,5.5,46.5,66.9,35.2,42.0,31.1,1.15
+2011,Wichita St. (MVC),False,DNP,DNP,DNP,DNP,78.4,11.1,8.4,46.8,74.6,35.5,40.8,33.8,1.24
+2011,Princeton (Ivy League),False,64.0,13,Automatic,DNP,78.1,6.2,4.1,46.5,73.2,36.3,42.4,33.0,1.1
+2011,UConn (AAC),False,1.0,3,Automatic,DNP,78.0,7.5,4.4,43.4,76.3,32.9,39.3,32.7,1.15
+2011,Texas (Big 12),True,32.0,4,At-large,DNP,77.8,12.9,6.4,45.5,65.4,37.6,38.7,29.5,1.14
+2011,Syracuse (AAC),False,32.0,3,At-large,DNP,77.1,10.1,3.6,47.2,66.5,35.4,39.4,31.5,1.31
+2011,Harvard (Ivy League),False,DNP,DNP,DNP,DNP,76.7,7.0,2.3,47.5,80.8,37.8,43.3,36.5,1.08
+2011,Temple (Atlantic 10),False,32.0,7,At-large,DNP,76.5,8.1,2.5,44.7,69.8,35.3,41.4,35.8,1.39
+2011,Purdue (Big Ten),True,32.0,3,At-large,DNP,76.5,10.7,1.9,44.7,71.5,36.4,41.4,32.6,1.52
+2011,Kentucky (SEC),True,4.0,4,Automatic,DNP,76.3,11.4,3.6,45.9,71.0,39.7,39.4,32.4,1.19
+2011,Fairfield (MAAC),False,DNP,DNP,DNP,DNP,75.8,6.8,2.5,43.3,65.4,DNP,40.0,32.0,0.99
+2011,Cleveland St. (Horizon),False,DNP,DNP,DNP,DNP,75.0,7.4,-1.2,43.4,73.1,34.1,41.4,32.4,1.04
+2011,Xavier (Atlantic 10),False,16.0,6,At-large,DNP,75.0,7.5,4.3,46.1,74.7,32.9,40.6,33.9,1.1
+2011,Missouri St. (MVC),False,DNP,DNP,DNP,DNP,74.3,6.7,3.5,45.3,73.0,37.6,44.9,34.8,1.28
+2011,Cincinnati (AAC),False,32.0,6,At-large,DNP,74.3,9.3,4.3,43.7,66.8,33.8,41.1,32.3,1.24
+2011,Butler (Horizon),False,2.0,8,Automatic,DNP,73.7,7.1,3.1,43.3,72.6,35.2,42.4,32.4,1.09
+2011,Wisconsin (Big Ten),True,16.0,4,At-large,DNP,73.5,9.4,3.5,44.1,81.8,37.4,42.8,37.0,1.71
+2011,Saint Mary's (CA) (WCC),False,DNP,DNP,DNP,DNP,73.5,12.7,4.0,48.5,75.9,39.0,44.1,36.1,1.47
+2011,Bucknell (Patriot),False,64.0,14,Automatic,DNP,73.5,6.3,-0.4,44.6,78.8,40.0,39.6,31.7,1.29
+2011,Hampton (MEAC),False,64.0,16,Automatic,DNP,72.7,3.8,-4.4,40.5,64.8,32.4,38.4,31.7,0.94
+2011,Texas A&M (Big 12),True,64.0,7,At-large,DNP,72.7,7.4,6.2,44.1,69.7,33.9,41.2,31.6,1.04
+2011,UNLV (Mountain West),False,64.0,8,At-large,DNP,72.7,8.7,1.4,45.9,68.9,33.0,40.5,32.9,1.22
+2011,Murray St. (OVC),False,DNP,DNP,DNP,DNP,71.9,6.7,2.3,45.9,69.9,37.9,43.4,35.0,0.97
+2011,Vermont (America East),False,DNP,DNP,DNP,DNP,71.9,5.5,6.6,44.7,67.6,DNP,39.2,32.4,0.92
+2011,Memphis (C-USA),False,64.0,12,Automatic,DNP,71.4,3.8,0.8,45.1,68.0,32.9,41.6,33.0,0.96
+2011,Oakland (Summit League),False,64.0,13,Automatic,DNP,71.4,8.6,5.0,49.2,72.0,37.4,44.4,36.3,1.2
+2011,UTEP (C-USA),False,DNP,DNP,DNP,DNP,71.4,7.0,-2.4,46.5,67.0,36.4,40.0,30.6,1.23
+2011,Louisville (AAC),False,64.0,4,At-large,DNP,71.4,10.4,0.1,45.3,66.3,36.2,39.4,31.1,1.32
+2011,Gonzaga (WCC),False,32.0,11,Automatic,DNP,71.4,10.8,6.5,47.9,76.2,37.0,40.4,36.5,1.14
+2011,Morehead St. (OVC),False,32.0,13,Automatic,DNP,71.4,7.1,9.1,45.4,67.4,33.9,41.9,36.5,0.81
+2011,UAB (C-USA),False,68.0,12,At-large,DNP,71.0,5.8,2.4,43.8,71.7,34.2,41.3,31.0,1.09
+2011,American (Patriot),False,DNP,DNP,DNP,DNP,71.0,2.5,3.1,44.7,71.8,33.8,42.1,36.1,1.24
+2011,Col. of Charleston (SoCon),False,DNP,DNP,DNP,DNP,70.3,7.2,-0.8,47.7,74.1,36.6,43.7,34.0,1.11
+2011,VCU (CAA),False,4.0,11,At-large,DNP,70.0,4.8,-4.1,43.4,71.5,37.0,44.1,33.6,1.29
+2011,Quinnipiac (NEC),False,DNP,DNP,DNP,DNP,68.8,4.3,9.3,42.8,61.1,34.4,41.9,33.6,1.25
+2011,Southern Miss. (C-USA),False,DNP,DNP,DNP,DNP,68.8,8.7,7.6,45.3,73.0,36.8,41.8,35.6,1.0
+2011,Washington (Pac-12),True,32.0,7,Automatic,DNP,68.6,12.4,4.2,46.9,67.4,37.1,41.8,32.8,1.39
+2011,Drexel (CAA),False,DNP,DNP,DNP,DNP,67.7,4.0,9.5,42.4,61.6,DNP,40.0,28.5,0.94
+2011,Rider (MAAC),False,DNP,DNP,DNP,DNP,67.6,4.3,-1.2,46.7,64.9,39.1,40.7,32.8,1.03
+2011,Missouri (Big 12),True,64.0,11,At-large,DNP,67.6,9.2,-2.0,45.8,73.9,36.6,43.8,34.1,1.29
+2011,Florida St. (ACC),True,16.0,10,At-large,DNP,67.6,7.0,4.9,43.5,66.5,33.4,36.3,30.6,0.78
+2011,Vanderbilt (SEC),True,64.0,5,At-large,DNP,67.6,8.2,2.4,45.8,74.3,37.1,41.1,31.3,1.03
+2011,Kansas St. (Big 12),True,32.0,5,At-large,DNP,67.6,6.7,6.5,43.8,65.5,37.6,42.1,35.1,0.95
+2011,UCLA (Pac-12),True,32.0,7,At-large,DNP,67.6,3.8,4.4,45.5,67.9,32.6,41.8,34.8,0.98
+2011,Kent St. (MAC),False,DNP,DNP,DNP,DNP,67.6,4.1,0.5,44.1,66.8,33.6,42.0,31.3,1.08
+2011,Alabama (SEC),True,DNP,DNP,DNP,DNP,67.6,7.4,2.7,45.0,70.7,DNP,38.6,31.8,0.88
+2011,Iona (MAAC),False,DNP,DNP,DNP,DNP,67.6,9.3,2.3,47.6,65.7,37.5,44.2,35.7,1.38
+2011,ETSU (ASUN),False,DNP,DNP,DNP,DNP,66.7,5.4,1.9,45.4,67.8,35.0,40.5,33.9,0.82
+2011,North Texas (Sun Belt),False,DNP,DNP,DNP,DNP,66.7,4.8,2.8,47.9,75.0,37.8,44.2,33.7,0.93
+2011,Furman (SoCon),False,DNP,DNP,DNP,DNP,66.7,4.5,2.9,44.7,72.5,37.4,42.3,32.9,0.93
+2011,Valparaiso (Horizon),False,DNP,DNP,DNP,DNP,65.7,5.3,0.9,47.4,66.5,32.1,42.3,32.8,1.15
+2011,Georgetown (AAC),False,64.0,6,At-large,DNP,65.6,4.2,2.6,47.5,73.4,35.3,41.8,33.7,1.11
+2011,Northern Colo. (Big Sky),False,64.0,15,Automatic,DNP,65.6,5.7,4.8,42.8,77.0,38.7,41.1,34.8,0.83
+2011,Fla. Atlantic (Sun Belt),False,DNP,DNP,DNP,DNP,65.6,1.7,-1.3,44.4,65.9,32.4,43.0,35.5,1.1
+2011,Montana (Big Sky),False,DNP,DNP,DNP,DNP,65.6,6.3,1.7,46.2,66.8,DNP,39.9,32.5,1.05
+2011,Long Beach St. (Big West),False,DNP,DNP,DNP,DNP,64.7,2.7,2.9,44.6,67.2,34.4,44.7,33.0,0.93
+2011,Virginia Tech (ACC),True,DNP,DNP,DNP,DNP,64.7,7.6,1.6,45.2,71.0,33.0,41.7,32.2,1.01
+2011,Marshall (C-USA),False,DNP,DNP,DNP,DNP,64.7,6.1,4.8,45.3,67.9,32.2,42.1,29.8,0.97
+2011,Clemson (ACC),True,64.0,12,At-large,DNP,64.7,7.2,1.6,44.3,70.1,34.4,40.2,33.1,0.99
+2011,Akron (MAC),False,64.0,15,Automatic,DNP,63.9,4.4,-3.0,43.0,70.4,36.1,41.5,32.0,1.2
+2011,UCF (C-USA),False,DNP,DNP,DNP,DNP,63.6,5.8,2.2,45.4,69.0,33.5,41.0,35.3,0.89
+2011,McNeese (Southland),False,DNP,DNP,DNP,DNP,63.6,2.8,-1.2,43.6,74.6,35.3,43.1,33.3,0.92
+2011,West Virginia (AAC),False,32.0,5,At-large,DNP,63.6,5.1,3.4,42.9,71.1,33.7,41.2,29.1,1.24
+2011,Villanova (AAC),False,64.0,9,At-large,DNP,63.6,6.8,4.5,43.8,75.7,34.8,40.5,32.0,1.15
+2011,Georgia (SEC),True,64.0,10,At-large,DNP,63.6,4.3,4.8,45.2,69.7,DNP,39.7,31.9,1.11
+2011,Hofstra (CAA),False,DNP,DNP,DNP,DNP,63.6,1.1,-3.9,44.3,76.1,35.7,44.0,37.7,1.29
+2011,James Madison (CAA),False,DNP,DNP,DNP,DNP,63.6,3.0,3.0,45.8,71.1,37.8,42.8,36.2,1.08
+2011,St. John's (NY) (AAC),False,64.0,6,At-large,DNP,63.6,3.1,-0.6,45.5,71.0,DNP,43.4,37.2,1.02
+2011,Utah Valley (Utah Valley),False,DNP,DNP,DNP,DNP,63.3,7.4,6.3,44.2,75.8,36.1,41.2,33.4,1.0
+2011,Santa Clara (WCC),False,DNP,DNP,DNP,DNP,63.2,3.1,4.4,43.0,72.6,35.1,44.7,35.5,0.92
+2011,Colorado (Big 12),True,DNP,DNP,DNP,DNP,63.2,6.3,2.8,47.3,77.8,37.2,44.8,36.4,1.17
+2011,Boise St. (WAC),False,DNP,DNP,DNP,DNP,62.9,6.1,0.6,43.8,72.2,34.4,45.9,37.8,1.06
+2011,New Mexico (Mountain West),False,DNP,DNP,DNP,DNP,62.9,7.3,6.0,45.7,71.2,34.6,42.3,33.1,1.14
+2011,Washington St. (Pac-12),True,DNP,DNP,DNP,DNP,62.9,5.5,-2.1,45.5,70.9,35.2,39.9,31.2,1.05
+2011,Portland (WCC),False,DNP,DNP,DNP,DNP,62.5,2.5,3.4,45.7,74.4,41.2,43.1,34.8,1.08
+2011,Jacksonville (ASUN),False,DNP,DNP,DNP,DNP,62.5,2.6,2.8,42.2,66.9,DNP,42.0,32.1,0.81
+2011,SFA (Southland),False,DNP,DNP,DNP,DNP,62.1,9.8,7.3,45.8,72.1,DNP,41.9,28.4,1.05
+2011,Bethune-Cookman (MEAC),False,DNP,DNP,DNP,DNP,61.8,0.0,-0.4,43.9,70.8,DNP,46.0,34.5,0.95
+2011,Boston College (ACC),True,DNP,DNP,DNP,DNP,61.8,2.5,-0.7,46.2,72.4,38.2,44.6,35.3,1.38
+2011,Wofford (SoCon),False,64.0,14,Automatic,DNP,61.8,5.6,1.0,47.7,69.3,40.0,44.5,34.8,1.21
+2011,Western Mich. (MAC),False,DNP,DNP,DNP,DNP,61.8,3.5,4.1,44.3,69.9,34.9,43.1,34.8,0.95
+2011,Central Conn. St. (NEC),False,DNP,DNP,DNP,DNP,61.3,4.0,1.5,43.6,76.7,DNP,41.9,32.0,1.01
+2011,South Dakota St. (Summit League),False,DNP,DNP,DNP,DNP,61.3,8.0,0.6,46.5,72.8,41.1,47.2,40.3,1.53
+2011,Dayton (Atlantic 10),False,DNP,DNP,DNP,DNP,61.1,1.7,4.8,41.0,67.7,35.5,41.4,32.3,1.1
+2011,Tennessee Tech (OVC),False,DNP,DNP,DNP,DNP,60.6,4.7,4.8,47.9,66.3,DNP,43.1,33.9,0.86
+2011,Boston U. (America East),False,64.0,16,Automatic,DNP,60.0,1.4,0.4,40.2,72.9,35.5,39.9,32.4,0.83
+2011,Michigan (Big Ten),True,32.0,8,At-large,DNP,60.0,4.0,-1.8,44.8,69.9,35.2,42.9,31.9,1.37
+2011,Purdue Fort Wayne (Summit League),False,DNP,DNP,DNP,DNP,60.0,4.2,-0.2,45.7,77.2,38.5,45.8,33.6,1.19
+2011,Marquette (AAC),False,16.0,11,At-large,DNP,59.5,6.4,2.4,46.5,69.6,34.9,43.8,35.8,1.26
+2011,Colorado St. (Mountain West),False,DNP,DNP,DNP,DNP,59.4,3.5,1.5,46.7,69.2,33.3,42.9,33.4,0.94
+2011,Duquesne (Atlantic 10),False,DNP,DNP,DNP,DNP,59.4,9.9,-2.9,45.8,62.2,36.0,42.6,33.6,1.33
+2011,Hawaii (WAC),False,DNP,DNP,DNP,DNP,59.4,2.0,2.0,45.1,68.5,35.7,38.9,32.5,0.75
+2011,Tulsa (C-USA),False,DNP,DNP,DNP,DNP,59.4,2.8,5.6,43.9,70.1,34.9,42.3,33.4,0.83
+2011,Nebraska (Big 12),True,DNP,DNP,DNP,DNP,59.4,5.9,3.6,46.1,70.2,31.4,38.9,33.6,0.96
+2011,Northern Ariz. (Big Sky),False,DNP,DNP,DNP,DNP,59.4,6.9,0.6,48.7,66.4,42.3,40.9,32.7,1.31
+2011,Texas Southern (SWAC),False,DNP,DNP,DNP,DNP,59.4,-1.1,-1.0,42.6,63.2,30.1,41.7,32.7,0.74
+2011,Ball St. (MAC),False,DNP,DNP,DNP,DNP,59.4,3.6,0.4,44.6,69.3,DNP,42.4,32.8,1.05
+2011,Liberty (Big South),False,DNP,DNP,DNP,DNP,59.4,2.0,5.8,42.6,68.6,32.2,42.7,31.8,0.83
+2011,Creighton (MVC),False,DNP,DNP,DNP,DNP,59.0,3.5,3.9,46.0,73.0,36.9,43.4,34.6,1.21
+2011,Austin Peay (OVC),False,DNP,DNP,DNP,DNP,58.8,6.8,1.2,45.9,68.0,36.0,42.5,31.8,1.0
+2011,UTSA (Southland),False,64.0,16*,Automatic,DNP,58.8,0.6,-1.6,42.9,70.5,35.1,41.9,33.2,0.93
+2011,Saint Peter's (MAAC),False,64.0,14,Automatic,DNP,58.8,0.8,-1.0,40.0,64.4,34.4,37.6,30.6,0.75
+2011,Rhode Island (Atlantic 10),False,DNP,DNP,DNP,DNP,58.8,1.4,-1.6,42.2,70.1,33.7,42.4,30.1,1.0
+2011,Oklahoma St. (Big 12),True,DNP,DNP,DNP,DNP,58.8,1.6,1.9,43.6,72.5,DNP,41.2,34.1,0.74
+2011,Buffalo (MAC),False,DNP,DNP,DNP,DNP,58.8,5.9,3.4,47.2,65.1,37.5,41.7,36.4,0.91
+2011,Illinois (Big Ten),True,32.0,9,At-large,DNP,58.8,5.6,1.6,46.8,72.9,38.7,40.4,30.5,1.31
+2011,Indiana St. (MVC),False,64.0,14,Automatic,DNP,58.8,1.8,1.1,42.9,71.0,36.2,40.6,33.2,0.9
+2011,Ole Miss (SEC),True,DNP,DNP,DNP,DNP,58.8,4.8,2.5,44.2,75.6,35.1,42.5,34.9,0.95
+2011,UNC Asheville (Big South),False,64.0,16,Automatic,DNP,58.8,5.1,-1.0,45.2,71.1,DNP,41.7,33.6,0.97
+2011,UNI (MVC),False,DNP,DNP,DNP,DNP,58.8,3.6,-1.2,42.8,76.2,34.4,44.5,36.7,1.14
+2011,Northwestern (Big Ten),True,DNP,DNP,DNP,DNP,58.8,4.1,-3.0,45.0,73.0,37.2,46.8,34.6,1.7
+2011,Miami (FL) (ACC),True,DNP,DNP,DNP,DNP,58.3,4.1,3.8,44.6,72.5,37.7,41.7,35.4,0.84
+2011,Arkansas (SEC),True,DNP,DNP,DNP,DNP,58.1,3.9,-2.9,43.6,69.5,36.2,41.2,31.5,0.91
+2011,Sam Houston (Southland),False,DNP,DNP,DNP,DNP,58.1,3.6,4.3,44.0,66.1,29.6,43.3,30.7,1.2
+2011,Baylor (Big 12),True,DNP,DNP,DNP,DNP,58.1,5.5,4.4,46.5,69.5,34.6,41.9,34.6,0.75
+2011,VMI (Big South),False,DNP,DNP,DNP,DNP,58.1,5.8,-4.4,44.9,70.9,35.9,45.9,35.6,1.12
+2011,Maryland (ACC),True,DNP,DNP,DNP,DNP,57.6,9.2,3.8,47.1,67.7,DNP,40.4,32.4,1.24
+2011,Milwaukee (Horizon),False,DNP,DNP,DNP,DNP,57.6,-1.0,0.5,43.1,65.4,35.2,44.9,36.0,0.92
+2011,IUPUI (Summit League),False,DNP,DNP,DNP,DNP,57.6,2.5,0.6,47.3,78.2,35.3,47.2,36.1,0.98
+2011,Wright St. (Horizon),False,DNP,DNP,DNP,DNP,57.6,2.7,-4.3,43.1,74.8,35.7,46.1,32.7,0.95
+2011,SMU (C-USA),False,DNP,DNP,DNP,DNP,57.1,3.3,-3.2,48.2,74.2,39.4,42.1,37.7,1.0
+2011,Lipscomb (ASUN),False,DNP,DNP,DNP,DNP,56.7,2.5,2.1,45.3,70.6,33.4,44.2,32.9,0.99
+2011,Idaho (WAC),False,DNP,DNP,DNP,DNP,56.3,1.2,0.3,46.1,72.1,38.3,41.9,32.8,0.97
+2011,Robert Morris (NEC),False,DNP,DNP,DNP,DNP,56.3,1.8,0.5,42.0,68.5,35.7,41.9,33.9,1.03
+2011,Weber St. (Big Sky),False,DNP,DNP,DNP,DNP,56.3,3.1,0.9,44.9,75.6,41.1,42.2,36.4,0.98
+2011,UC Santa Barbara (Big West),False,64.0,15,Automatic,DNP,56.3,2.0,-0.6,45.4,75.2,37.2,40.7,36.3,1.0
+2011,Northwestern St. (Southland),False,DNP,DNP,DNP,DNP,56.3,-0.6,-3.6,44.3,63.7,34.5,43.7,38.3,0.79
+2011,Michigan St. (Big Ten),True,64.0,10,At-large,DNP,55.9,2.2,4.0,43.1,70.0,35.5,42.3,36.4,1.12
+2011,Tennessee (SEC),True,64.0,9,At-large,DNP,55.9,2.4,3.7,43.1,68.4,30.0,41.8,33.2,0.98
+2011,San Francisco (WCC),False,DNP,DNP,DNP,DNP,55.9,-0.5,3.4,43.8,68.8,33.7,41.8,32.0,0.87
+2011,Southern California (Pac-12),True,68.0,11,At-large,DNP,55.9,3.6,0.9,44.4,65.1,35.4,40.9,33.5,1.03
+2011,Penn St. (Big Ten),True,64.0,10,At-large,DNP,55.9,0.5,1.3,43.9,72.4,33.9,44.0,36.5,1.15
+2011,Mississippi St. (SEC),True,DNP,DNP,DNP,DNP,54.8,-0.4,-0.7,43.4,72.3,36.2,41.7,33.7,0.95
+2011,Morgan St. (MEAC),False,DNP,DNP,DNP,DNP,54.8,-0.3,3.6,42.0,68.1,DNP,42.9,32.1,0.79
+2011,Minnesota (Big Ten),True,DNP,DNP,DNP,DNP,54.8,2.0,5.1,45.4,66.0,DNP,39.9,34.6,1.18
+2011,George Washington (Atlantic 10),False,DNP,DNP,DNP,DNP,54.8,-0.5,1.6,41.5,62.7,33.6,42.9,36.5,0.94
+2011,Western Caro. (SoCon),False,DNP,DNP,DNP,DNP,54.5,0.8,0.4,43.1,65.1,33.3,45.0,31.0,0.95
+2011,Davidson (SoCon),False,DNP,DNP,DNP,DNP,54.5,3.8,4.2,43.4,73.3,34.4,43.3,33.4,0.91
+2011,California (Pac-12),True,DNP,DNP,DNP,DNP,54.5,0.3,2.1,46.1,69.5,35.1,43.6,36.4,1.1
+2011,Oral Roberts (Summit League),False,DNP,DNP,DNP,DNP,54.3,2.0,2.9,47.4,71.7,36.6,46.0,35.5,0.99
+2011,Ohio (MAC),False,DNP,DNP,DNP,DNP,54.3,1.6,0.4,43.5,71.8,35.4,44.7,35.5,1.13
+2011,Oregon (Pac-12),True,DNP,DNP,DNP,DNP,53.8,0.8,-2.0,42.5,73.9,33.9,44.6,36.6,1.14
+2011,Yale (Ivy League),False,DNP,DNP,DNP,DNP,53.6,0.8,0.3,44.1,73.5,34.3,42.0,34.7,0.93
+2011,Columbia (Ivy League),False,DNP,DNP,DNP,DNP,53.6,-0.2,3.5,42.7,71.4,33.8,45.7,36.5,0.93
+2011,Coppin St. (MEAC),False,DNP,DNP,DNP,DNP,53.3,0.2,-1.8,42.9,70.1,36.3,42.7,33.4,0.84
+2011,Kansas City (Summit League),False,DNP,DNP,DNP,DNP,53.3,-3.9,-1.7,43.6,66.2,34.7,47.0,36.8,0.77
+2011,Arkansas St. (Sun Belt),False,DNP,DNP,DNP,DNP,53.1,3.8,4.6,43.2,70.8,33.0,41.9,34.8,0.87
+2011,Jackson St. (SWAC),False,DNP,DNP,DNP,DNP,53.1,2.7,2.6,41.9,63.7,33.0,43.1,34.7,0.89
+2011,East Carolina (C-USA),False,DNP,DNP,DNP,DNP,52.9,0.9,-2.0,42.5,69.2,35.8,42.9,33.2,0.92
+2011,Little Rock (Sun Belt),False,68.0,16,Automatic,DNP,52.8,0.9,-1.6,42.6,69.0,39.3,43.4,33.7,1.01
+2011,Southeastern La. (Southland),False,DNP,DNP,DNP,DNP,51.7,1.0,-0.9,43.7,72.1,34.3,44.8,35.4,1.07
+2011,Lehigh (Patriot),False,DNP,DNP,DNP,DNP,51.6,1.6,-0.3,41.7,75.5,32.8,43.0,36.1,0.93
+2011,Loyola Chicago (Horizon),False,DNP,DNP,DNP,DNP,51.6,2.8,2.0,42.8,73.7,36.2,44.7,36.0,0.97
+2011,Virginia (ACC),True,DNP,DNP,DNP,DNP,51.6,-0.5,-2.3,41.5,69.0,38.8,43.7,36.3,1.04
+2011,St. Bonaventure (Atlantic 10),False,DNP,DNP,DNP,DNP,51.6,-0.4,2.9,45.6,69.9,35.1,42.9,32.8,0.87
+2011,App State (SoCon),False,DNP,DNP,DNP,DNP,51.6,-0.1,-0.1,45.5,70.5,33.7,46.2,34.0,0.81
+2011,Pacific (Big West),False,DNP,DNP,DNP,DNP,51.6,3.0,2.2,43.9,70.3,35.6,43.8,35.4,1.22
+2011,Detroit Mercy (Horizon),False,DNP,DNP,DNP,DNP,51.5,1.9,3.4,46.3,68.7,35.2,42.7,33.3,0.78
+2011,San Jose St. (WAC),False,DNP,DNP,DNP,DNP,51.5,-0.4,1.5,40.4,75.4,37.2,43.7,34.2,1.12
+2011,Albany (NY) (America East),False,DNP,DNP,DNP,DNP,50.0,-1.1,2.3,42.4,64.5,37.7,41.2,32.9,0.9
+2011,Western Ky. (Sun Belt),False,DNP,DNP,DNP,DNP,50.0,-0.7,0.3,43.6,64.2,31.2,43.7,36.3,0.83
+2011,Charleston So. (Big South),False,DNP,DNP,DNP,DNP,50.0,5.2,3.8,44.7,75.5,36.3,44.8,33.0,0.88
+2011,Air Force (Mountain West),False,DNP,DNP,DNP,DNP,50.0,-0.3,-6.0,47.1,70.5,37.7,40.6,33.8,1.28
+2011,Chattanooga (SoCon),False,DNP,DNP,DNP,DNP,50.0,-3.3,3.2,41.7,64.9,32.2,43.9,34.6,0.92
+2011,Texas St. (Southland),False,DNP,DNP,DNP,DNP,50.0,-0.1,-0.2,44.9,67.2,32.0,45.9,33.1,0.9
+2011,Middle Tenn. (Sun Belt),False,DNP,DNP,DNP,DNP,50.0,3.0,2.3,42.6,71.0,34.1,42.6,34.9,0.7
+2011,Iowa St. (Big 12),True,DNP,DNP,DNP,DNP,50.0,4.3,-2.3,43.7,72.1,36.8,42.1,33.6,1.2
+2011,Evansville (MVC),False,DNP,DNP,DNP,DNP,50.0,-0.8,-2.6,45.0,70.9,DNP,45.2,35.0,1.09
+2011,St. Francis Brooklyn (NEC),False,DNP,DNP,DNP,DNP,50.0,0.4,-4.2,39.9,66.2,31.1,44.8,32.4,0.87
+2011,NJIT (NJIT),False,DNP,DNP,DNP,DNP,50.0,0.4,0.3,42.8,61.8,36.4,42.3,35.8,0.96
+2011,Massachusetts (Atlantic 10),False,DNP,DNP,DNP,DNP,50.0,-1.7,1.0,40.1,66.2,29.0,40.2,33.3,0.82
+2011,Maine (America East),False,DNP,DNP,DNP,DNP,50.0,2.6,0.6,46.1,69.9,35.4,41.9,36.9,1.02
+2011,Cal Poly (Big West),False,DNP,DNP,DNP,DNP,50.0,0.4,0.0,38.9,66.4,31.1,40.0,28.7,0.94
+2011,Loyola Maryland (MAAC),False,DNP,DNP,DNP,DNP,50.0,0.4,2.8,41.7,70.6,33.9,44.9,33.8,0.9
+2011,Canisius (MAAC),False,DNP,DNP,DNP,DNP,50.0,0.6,-1.0,42.4,69.9,34.9,41.2,34.0,1.08
+2011,Nicholls (Southland),False,DNP,DNP,DNP,DNP,50.0,3.8,-3.6,44.3,68.7,33.5,44.5,32.8,1.1
+2011,Alabama St. (SWAC),False,68.0,DNP,Automatic,DNP,48.6,-2.5,0.8,39.5,60.4,DNP,40.3,34.3,0.73
+2011,New Mexico St. (WAC),False,DNP,DNP,DNP,DNP,48.5,1.5,0.5,44.6,67.6,33.2,44.0,32.6,0.84
+2011,Miami (OH) (MAC),False,DNP,DNP,DNP,DNP,48.5,-3.9,-1.3,43.1,72.8,34.9,44.3,36.9,0.8
+2011,Stanford (Pac-12),True,DNP,DNP,DNP,DNP,48.4,1.2,1.6,43.1,65.8,35.6,43.1,36.4,0.87
+2011,NC State (ACC),True,DNP,DNP,DNP,DNP,48.4,0.2,0.5,43.9,69.4,DNP,42.4,32.0,1.18
+2011,Eastern Ky. (OVC),False,DNP,DNP,DNP,DNP,48.4,2.9,-3.5,44.6,74.2,36.8,44.7,36.2,1.17
+2011,North Dakota St. (Summit League),False,DNP,DNP,DNP,DNP,48.3,4.3,3.5,47.1,69.3,38.2,44.2,33.7,1.04
+2011,Louisiana (Sun Belt),False,DNP,DNP,DNP,DNP,48.3,-0.4,3.5,43.6,66.4,34.7,43.7,34.7,0.66
+2011,Providence (AAC),False,DNP,DNP,DNP,DNP,46.9,0.5,0.8,42.4,66.9,31.5,44.8,32.7,0.98
+2011,Stony Brook (America East),False,DNP,DNP,DNP,DNP,46.9,0.5,-0.3,38.2,65.8,34.5,39.0,30.8,0.77
+2011,Rutgers (AAC),False,DNP,DNP,DNP,DNP,46.9,0.7,-1.1,44.0,67.7,34.4,40.6,34.6,1.12
+2011,N.C. A&T (MEAC),False,DNP,DNP,DNP,DNP,46.9,-2.8,-3.3,43.1,66.5,32.5,41.1,33.5,0.81
+2011,Tennessee St. (OVC),False,DNP,DNP,DNP,DNP,46.7,0.1,-0.5,42.6,76.2,36.9,44.0,33.5,0.83
+2011,Portland St. (Big Sky),False,DNP,DNP,DNP,DNP,46.7,-2.0,-3.4,43.9,72.6,35.2,47.4,34.7,1.04
+2011,South Carolina (SEC),True,DNP,DNP,DNP,DNP,46.7,-1.4,0.2,39.5,66.3,31.3,42.4,35.0,0.81
+2011,Penn (Ivy League),False,DNP,DNP,DNP,DNP,46.4,-1.4,-1.6,45.4,73.7,36.9,46.1,36.1,0.98
+2011,Alabama A&M (SWAC),False,DNP,DNP,DNP,DNP,46.4,-2.2,-1.8,39.9,62.4,DNP,41.3,32.0,0.76
+2011,La Salle (Atlantic 10),False,DNP,DNP,DNP,DNP,45.5,-1.8,1.8,44.6,70.9,36.4,44.9,35.7,0.97
+2011,Mercer (ASUN),False,DNP,DNP,DNP,DNP,45.5,-1.2,-2.3,41.8,69.0,33.0,43.5,31.8,0.84
+2011,Elon (SoCon),False,DNP,DNP,DNP,DNP,45.2,0.0,-2.9,42.8,71.4,36.4,46.2,38.1,1.11
+2011,Delaware (CAA),False,DNP,DNP,DNP,DNP,45.2,-3.7,-2.2,41.6,69.1,34.8,42.2,30.8,0.88
+2011,Fresno St. (WAC),False,DNP,DNP,DNP,DNP,45.2,0.2,1.2,42.7,62.9,29.5,43.3,35.3,1.03
+2011,UT Arlington (Southland),False,DNP,DNP,DNP,DNP,44.8,2.1,0.5,44.1,70.5,34.9,40.6,32.8,0.71
+2011,North Florida (ASUN),False,DNP,DNP,DNP,DNP,44.1,-6.6,-5.4,43.5,66.1,33.0,43.7,32.2,0.71
+2011,CSUN (Big West),False,DNP,DNP,DNP,DNP,43.8,-1.5,0.4,43.6,67.3,32.5,43.1,33.3,0.81
+2011,Rice (C-USA),False,DNP,DNP,DNP,DNP,43.8,0.0,2.3,42.7,72.3,32.7,44.0,37.8,1.05
+2011,Green Bay (Horizon),False,DNP,DNP,DNP,DNP,43.8,-1.1,1.7,43.7,68.9,DNP,44.8,37.9,0.9
+2011,Oklahoma (Big 12),True,DNP,DNP,DNP,DNP,43.8,-2.8,-2.6,44.8,73.8,33.7,45.1,36.2,0.92
+2011,Winthrop (Big South),False,DNP,DNP,DNP,DNP,43.3,-1.1,0.5,41.5,64.3,DNP,41.6,33.0,0.89
+2011,Tulane (C-USA),False,DNP,DNP,DNP,DNP,43.3,2.7,-1.5,43.0,68.8,36.4,45.6,33.7,1.1
+2011,Wagner (NEC),False,DNP,DNP,DNP,DNP,43.3,-2.9,-6.2,43.5,77.2,37.1,42.7,35.4,0.91
+2011,Lamar University (Southland),False,DNP,DNP,DNP,DNP,43.3,6.1,3.1,43.1,68.7,36.0,43.9,32.8,0.95
+2011,Denver (Sun Belt),False,DNP,DNP,DNP,DNP,43.3,-0.6,-5.7,45.4,72.5,40.1,45.6,40.9,1.07
+2011,South Alabama (Sun Belt),False,DNP,DNP,DNP,DNP,42.9,-2.6,0.1,42.3,66.5,33.3,45.7,37.8,0.86
+2011,Bowling Green (MAC),False,DNP,DNP,DNP,DNP,42.4,-3.0,-2.6,43.2,64.2,DNP,44.3,35.2,1.02
+2011,Drake (MVC),False,DNP,DNP,DNP,DNP,41.9,-3.3,-5.5,42.7,68.5,35.4,45.0,32.8,0.95
+2011,Georgia Tech (ACC),True,DNP,DNP,DNP,DNP,41.9,0.7,1.0,40.5,68.9,29.9,44.0,37.9,0.96
+2011,Montana St. (Big Sky),False,DNP,DNP,DNP,DNP,41.9,-1.6,-2.1,41.4,64.7,33.3,45.0,38.1,1.0
+2011,Seton Hall (AAC),False,DNP,DNP,DNP,DNP,41.9,1.7,-1.9,41.3,67.2,30.6,41.8,31.4,1.11
+2011,Siena (MAAC),False,DNP,DNP,DNP,DNP,41.9,-2.1,3.0,41.4,67.9,33.4,43.2,33.4,0.85
+2011,Utah (Mountain West),False,DNP,DNP,DNP,DNP,41.9,-3.2,-0.8,42.6,69.4,33.2,42.2,34.9,0.7
+2011,UNCW (CAA),False,DNP,DNP,DNP,DNP,41.9,-3.0,-1.9,43.4,68.9,36.9,43.4,34.9,0.83
+2011,UC Irvine (Big West),False,DNP,DNP,DNP,DNP,40.6,-0.3,-3.3,42.2,73.5,35.4,43.2,33.1,0.95
+2011,Nevada (WAC),False,DNP,DNP,DNP,DNP,40.6,-1.1,1.4,42.3,68.6,34.7,42.6,34.0,0.78
+2011,Southern Ill. (MVC),False,DNP,DNP,DNP,DNP,40.6,-3.9,1.3,42.7,69.2,DNP,43.5,36.5,0.8
+2011,Texas Tech (Big 12),True,DNP,DNP,DNP,DNP,40.6,-2.2,-2.2,44.5,72.9,36.5,45.7,35.1,0.96
+2011,Lafayette (Patriot),False,DNP,DNP,DNP,DNP,40.6,-2.3,-3.7,42.9,76.1,35.0,44.9,35.7,1.11
+2011,Mississippi Val. (SWAC),False,DNP,DNP,DNP,DNP,40.6,-6.5,0.2,40.5,66.5,32.4,43.5,32.0,0.71
+2011,New Hampshire (America East),False,DNP,DNP,DNP,DNP,40.0,-2.6,-1.2,37.4,61.3,29.0,41.0,33.1,0.81
+2011,Savannah St. (Savannah St.),False,DNP,DNP,DNP,DNP,40.0,0.3,-1.0,41.0,66.1,31.1,40.3,31.5,0.71
+2011,Houston (C-USA),False,DNP,DNP,DNP,DNP,40.0,-1.0,-1.8,46.0,66.9,38.9,42.2,31.5,0.89
+2011,Brown (Ivy League),False,DNP,DNP,DNP,DNP,39.3,-1.9,-2.1,43.9,74.7,34.3,44.7,34.7,1.16
+2011,Arizona St. (Pac-12),True,DNP,DNP,DNP,DNP,38.7,-2.9,-3.6,43.0,62.8,35.1,42.9,34.6,1.22
+2011,UC Riverside (Big West),False,DNP,DNP,DNP,DNP,38.7,-3.9,0.5,42.4,68.2,34.7,42.7,37.7,0.87
+2011,Campbell (ASUN),False,DNP,DNP,DNP,DNP,38.7,-1.9,-0.1,45.2,64.1,DNP,42.6,37.7,0.95
+2011,Georgia St. (CAA),False,DNP,DNP,DNP,DNP,38.7,-2.2,2.6,42.2,59.4,35.0,40.5,33.0,0.87
+2011,High Point (Big South),False,DNP,DNP,DNP,DNP,38.7,-6.5,-2.5,41.2,66.5,34.6,45.8,33.5,0.73
+2011,Longwood (Longwood),False,DNP,DNP,DNP,DNP,38.7,-6.1,-6.2,45.5,69.9,35.6,48.4,34.5,1.19
+2011,Saint Louis (Atlantic 10),False,DNP,DNP,DNP,DNP,38.7,0.6,-1.5,43.7,65.6,32.6,43.4,33.7,1.02
+2011,Samford (SoCon),False,DNP,DNP,DNP,DNP,38.7,-6.2,-9.1,42.8,67.5,35.4,43.2,36.9,0.98
+2011,Illinois St. (MVC),False,DNP,DNP,DNP,DNP,38.7,-2.7,1.9,42.5,70.8,DNP,42.8,35.5,0.84
+2011,Sacred Heart (NEC),False,DNP,DNP,DNP,DNP,37.9,-3.3,-0.6,42.9,70.2,34.5,44.9,34.1,0.77
+2011,Florida A&M (MEAC),False,DNP,DNP,DNP,DNP,37.5,-4.4,0.4,39.9,60.6,31.1,41.5,34.1,0.56
+2011,Louisiana Tech (WAC),False,DNP,DNP,DNP,DNP,37.5,-3.8,2.2,41.9,64.8,33.0,42.7,32.9,0.62
+2011,Norfolk St. (MEAC),False,DNP,DNP,DNP,DNP,37.5,-4.8,-0.5,43.7,67.8,30.7,43.2,36.4,0.8
+2011,Bradley (MVC),False,DNP,DNP,DNP,DNP,37.5,-2.8,-2.3,42.7,72.2,DNP,43.2,33.5,0.96
+2011,Indiana (Big Ten),True,DNP,DNP,DNP,DNP,37.5,1.4,0.9,46.1,72.6,34.6,43.3,36.4,0.95
+2011,FIU (Sun Belt),False,DNP,DNP,DNP,DNP,36.7,-3.7,-3.2,43.8,68.6,32.8,44.7,34.7,0.73
+2011,Southern Utah (Summit League),False,DNP,DNP,DNP,DNP,36.7,-3.8,2.7,46.8,70.9,DNP,45.0,37.4,0.88
+2011,Army West Point (Patriot),False,DNP,DNP,DNP,DNP,36.7,-3.4,-1.8,41.5,71.1,36.5,44.6,36.3,0.95
+2011,UT Martin (OVC),False,DNP,DNP,DNP,DNP,36.4,-5.8,-3.3,42.3,74.0,32.6,47.5,32.9,0.72
+2011,Grambling (SWAC),False,DNP,DNP,DNP,DNP,36.4,-8.0,-2.2,38.0,61.4,29.9,43.5,34.1,0.67
+2011,Pepperdine (WCC),False,DNP,DNP,DNP,DNP,36.4,-4.6,2.1,42.4,71.8,32.7,46.0,37.2,0.93
+2011,Cornell (Ivy League),False,DNP,DNP,DNP,DNP,35.7,-2.0,-3.5,41.6,68.9,37.4,45.6,34.3,1.2
+2011,Cal St. Fullerton (Big West),False,DNP,DNP,DNP,DNP,35.5,-3.8,-0.5,44.9,71.9,36.7,44.8,37.0,0.9
+2011,Hartford (America East),False,DNP,DNP,DNP,DNP,35.5,-4.5,-6.5,38.3,60.0,30.5,43.7,36.5,0.95
+2011,Northeastern (CAA),False,DNP,DNP,DNP,DNP,35.5,-3.8,-3.8,44.7,75.0,37.9,47.4,39.4,1.1
+2011,Oregon St. (Pac-12),True,DNP,DNP,DNP,DNP,35.5,-3.5,-0.2,42.7,68.1,30.4,46.1,37.4,0.79
+2011,Navy (Patriot),False,DNP,DNP,DNP,DNP,35.5,-4.5,-9.4,39.3,70.9,29.4,44.4,34.5,0.82
+2011,Auburn (SEC),True,DNP,DNP,DNP,DNP,35.5,-3.8,-0.9,39.8,65.6,DNP,42.6,33.6,0.79
+2011,Iowa (Big Ten),True,DNP,DNP,DNP,DNP,35.5,-0.8,1.3,43.9,67.6,DNP,43.9,33.2,0.95
+2011,LSU (SEC),True,DNP,DNP,DNP,DNP,34.4,-4.3,-2.1,40.0,66.5,31.2,41.5,32.8,0.79
+2011,Gardner-Webb (Big South),False,DNP,DNP,DNP,DNP,34.4,-4.5,0.7,41.1,64.2,32.4,44.1,37.7,0.7
+2011,Mount St. Mary's (NEC),False,DNP,DNP,DNP,DNP,34.4,-5.8,-3.9,41.9,68.0,DNP,42.6,32.6,0.8
+2011,LMU (CA) (WCC),False,DNP,DNP,DNP,DNP,34.4,-1.5,2.7,43.1,69.4,DNP,43.5,35.4,0.96
+2011,TCU (Mountain West),False,DNP,DNP,DNP,DNP,33.3,-3.0,-1.6,43.6,67.4,35.0,46.0,32.9,1.13
+2011,Saint Joseph's (Atlantic 10),False,DNP,DNP,DNP,DNP,33.3,-5.2,-4.2,41.5,70.7,32.8,43.6,36.7,1.13
+2011,Eastern Wash. (Big Sky),False,DNP,DNP,DNP,DNP,33.3,-3.2,-0.9,40.8,66.3,36.9,43.8,34.6,0.86
+2011,UC Davis (Big West),False,DNP,DNP,DNP,DNP,33.3,-1.9,-5.4,46.0,72.8,37.8,46.0,34.8,1.07
+2011,Charlotte (Atlantic 10),False,DNP,DNP,DNP,DNP,33.3,-4.4,0.6,41.4,72.9,33.3,43.5,30.6,0.79
+2011,Central Mich. (MAC),False,DNP,DNP,DNP,DNP,32.3,-5.3,-1.2,38.4,62.9,32.6,45.6,36.3,0.65
+2011,A&M-Corpus Christi (Southland),False,DNP,DNP,DNP,DNP,32.3,-8.1,1.1,43.2,64.4,DNP,46.1,34.6,0.65
+2011,Wyoming (Mountain West),False,DNP,DNP,DNP,DNP,32.3,-3.8,-3.2,43.1,67.3,28.2,44.7,36.8,0.74
+2011,CSU Bakersfield (CSU Bakersfield),False,DNP,DNP,DNP,DNP,32.1,-9.3,-5.1,39.6,68.9,33.2,48.2,34.6,0.86
+2011,The Citadel (SoCon),False,DNP,DNP,DNP,DNP,31.3,-5.9,2.7,42.8,71.6,DNP,46.3,34.0,0.99
+2011,Prairie View (SWAC),False,DNP,DNP,DNP,DNP,31.3,-7.2,-2.3,38.2,57.6,30.1,42.6,33.1,0.77
+2011,Southeast Mo. St. (OVC),False,DNP,DNP,DNP,DNP,31.3,-5.1,-0.3,43.6,62.0,34.1,43.7,33.6,0.84
+2011,William & Mary (CAA),False,DNP,DNP,DNP,DNP,31.3,-3.8,-1.5,44.3,69.8,36.3,43.3,35.1,1.01
+2011,South Carolina St. (MEAC),False,DNP,DNP,DNP,DNP,31.3,-4.9,1.2,42.9,67.5,31.8,44.4,33.8,0.74
+2011,Idaho St. (Big Sky),False,DNP,DNP,DNP,DNP,31.0,-7.5,-1.4,41.4,70.1,DNP,45.6,38.4,0.72
+2011,Eastern Ill. (OVC),False,DNP,DNP,DNP,DNP,31.0,-4.3,1.7,42.1,72.4,DNP,41.9,35.5,0.9
+2011,South Fla. (AAC),False,DNP,DNP,DNP,DNP,30.3,-4.6,2.7,41.6,71.0,DNP,42.6,34.4,0.82
+2011,Delaware St. (MEAC),False,DNP,DNP,DNP,DNP,30.0,-3.1,-9.7,42.8,71.4,34.7,49.2,36.3,1.04
+2011,Monmouth (NEC),False,DNP,DNP,DNP,DNP,30.0,-5.3,-1.3,40.7,63.9,32.5,41.8,35.5,0.86
+2011,Youngstown St. (Horizon),False,DNP,DNP,DNP,DNP,30.0,-5.1,-5.4,41.5,61.0,33.2,44.9,36.2,1.26
+2011,Saint Francis (PA) (NEC),False,DNP,DNP,DNP,DNP,30.0,-7.7,-2.9,43.1,72.7,33.3,47.0,38.8,0.87
+2011,UMES (MEAC),False,DNP,DNP,DNP,DNP,29.0,-10.1,-4.4,40.5,65.3,29.0,47.2,35.4,0.85
+2011,Eastern Mich. (MAC),False,DNP,DNP,DNP,DNP,29.0,-4.0,-1.2,38.9,62.4,32.2,42.6,34.1,0.9
+2011,Niagara (MAAC),False,DNP,DNP,DNP,DNP,28.1,-8.9,-8.0,37.2,66.0,27.5,43.9,33.3,0.75
+2011,Holy Cross (Patriot),False,DNP,DNP,DNP,DNP,27.6,-1.8,3.1,44.1,65.0,32.6,42.9,33.7,0.99
+2011,Troy (Sun Belt),False,DNP,DNP,DNP,DNP,27.6,-5.8,-1.8,40.8,66.2,34.3,44.3,36.8,0.95
+2011,Binghamton (America East),False,DNP,DNP,DNP,DNP,25.8,-8.5,-5.2,39.6,70.1,35.4,45.1,38.1,0.88
+2011,Kennesaw St. (ASUN),False,DNP,DNP,DNP,DNP,25.8,-9.8,-3.2,41.6,64.9,30.3,46.5,37.0,0.78
+2011,Stetson (ASUN),False,DNP,DNP,DNP,DNP,25.8,-7.8,-1.8,42.7,62.0,29.7,44.2,36.8,0.59
+2011,Wake Forest (ACC),True,DNP,DNP,DNP,DNP,25.0,-9.9,-5.3,42.3,74.6,35.9,45.6,37.0,0.73
+2011,Sacramento St. (Big Sky),False,DNP,DNP,DNP,DNP,25.0,-7.8,0.9,40.1,68.1,30.6,44.0,35.6,0.83
+2011,Fordham (Atlantic 10),False,DNP,DNP,DNP,DNP,25.0,-9.8,0.0,39.6,63.0,33.6,43.3,34.8,0.89
+2011,Western Ill. (Summit League),False,DNP,DNP,DNP,DNP,23.3,-7.5,-4.6,41.3,66.1,35.0,42.9,34.2,0.78
+2011,Colgate (Patriot),False,DNP,DNP,DNP,DNP,23.3,-10.8,0.1,41.9,68.2,33.5,45.7,33.8,0.8
+2011,DePaul (AAC),False,DNP,DNP,DNP,DNP,22.6,-8.8,-7.7,42.6,68.3,31.4,50.1,35.0,1.06
+2011,UIC (Horizon),False,DNP,DNP,DNP,DNP,22.6,-6.7,3.6,42.5,66.7,DNP,45.0,35.9,0.73
+2011,Ark.-Pine Bluff (SWAC),False,DNP,DNP,DNP,DNP,22.6,-12.0,-4.5,38.9,62.7,34.4,46.2,37.1,0.69
+2011,ULM (Sun Belt),False,DNP,DNP,DNP,DNP,22.6,-8.6,-0.9,41.7,64.8,32.1,47.2,38.5,0.71
+2011,UNC Greensboro (SoCon),False,DNP,DNP,DNP,DNP,22.6,-9.6,-2.5,42.9,69.0,35.6,47.3,38.2,0.75
+2011,San Diego (WCC),False,DNP,DNP,DNP,DNP,20.0,-9.6,-6.9,42.2,67.9,33.1,46.1,33.3,0.77
+2011,Howard (MEAC),False,DNP,DNP,DNP,DNP,20.0,-11.5,-1.2,37.6,62.3,DNP,45.1,36.3,0.59
+2011,UTRGV (UTRGV),False,DNP,DNP,DNP,DNP,19.4,-7.8,-3.2,42.3,67.7,38.0,47.6,40.8,0.8
+2011,Manhattan (MAAC),False,DNP,DNP,DNP,DNP,19.4,-9.6,-2.5,40.3,69.9,DNP,44.2,38.5,0.72
+2011,Chicago St. (Chicago St.),False,DNP,DNP,DNP,DNP,18.8,-20.1,-6.2,40.1,64.7,DNP,47.3,37.5,0.71
+2011,Marist (MAAC),False,DNP,DNP,DNP,DNP,18.2,-12.2,-4.2,38.2,71.2,31.1,43.6,34.4,0.66
+2011,Dartmouth (Ivy League),False,DNP,DNP,DNP,DNP,17.9,-11.5,-7.3,39.5,69.7,32.6,45.0,37.0,0.67
+2011,Radford (Big South),False,DNP,DNP,DNP,DNP,17.2,-11.4,-3.2,38.3,62.6,DNP,44.6,35.9,0.62
+2011,Central Ark. (Southland),False,DNP,DNP,DNP,DNP,17.2,-8.0,-3.9,41.6,64.2,31.3,48.4,34.4,0.74
+2011,Fairleigh Dickinson (NEC),False,DNP,DNP,DNP,DNP,17.2,-8.3,0.3,39.7,67.5,32.1,43.6,36.7,0.77
+2011,Jacksonville St. (OVC),False,DNP,DNP,DNP,DNP,16.7,-4.9,-3.0,42.4,64.9,36.8,46.7,35.5,0.85
+2011,UMBC (America East),False,DNP,DNP,DNP,DNP,16.7,-14.2,-5.1,40.1,70.7,33.1,47.1,38.5,0.88
+2011,Ga. Southern (SoCon),False,DNP,DNP,DNP,DNP,15.6,-10.4,-2.8,44.9,68.8,DNP,48.6,36.5,0.66
+2011,Alcorn (SWAC),False,DNP,DNP,DNP,DNP,14.3,-15.0,-10.6,36.9,63.3,DNP,44.2,32.1,0.54
+2011,Towson (CAA),False,DNP,DNP,DNP,DNP,13.3,-7.5,-3.7,43.8,72.3,35.6,48.6,40.2,0.95
+2011,Southern U. (SWAC),False,DNP,DNP,DNP,DNP,13.3,-15.4,-7.4,38.2,59.6,29.6,44.1,31.1,0.7
+2011,Toledo (MAC),False,DNP,DNP,DNP,DNP,12.5,-12.3,-3.7,40.8,62.8,32.0,45.0,35.5,0.77
+2011,Centenary (LA) (Summit League),False,DNP,DNP,DNP,DNP,3.3,-21.6,-9.0,39.6,62.7,DNP,49.1,35.2,0.54
